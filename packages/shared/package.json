@@ -1,0 +1,17 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "Shared",
+  "main": "index.ts",
+  "dependencies": {
+    "@automapper/classes": "^8.7.7",
+    "@automapper/core": "^8.7.7",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.1.6",
+    "typeorm": "^0.3.15",
+    "eslint": "^7.32.0",
+    "eslint-config-custom": "*",
+    "tsconfig": "*"
+  },
+  "license": "MIT"
+}
